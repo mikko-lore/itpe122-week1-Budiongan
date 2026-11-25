@@ -1,4 +1,4 @@
-# Juan Dela Cruz
+# Mikko Lore Budiongan
 
 - **Section:** BSIT 2E
 - **GitHub username:** mikko-lore
